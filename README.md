@@ -2,3 +2,4 @@
 
   Created By - Taifur Rahaman <br>
   Taught By - John Smilga
+  Techonology Used - HTML5, CSS3, JavaScript
